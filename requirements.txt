@@ -1,0 +1,14 @@
+streamlit
+transformers
+tensorflow
+nltk
+tf-keras
+streamlit
+openai
+requests
+pandas
+numpy
+transformers
+torch
+sentence-transformers
+scikit-learn
